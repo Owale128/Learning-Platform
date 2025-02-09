@@ -12,4 +12,4 @@ Link: https://learning-platform-black.vercel.app/
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,sass)](https://skillicons.dev)
 
 # Host:
-[![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
