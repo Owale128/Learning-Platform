@@ -9,4 +9,7 @@ Link: https://learning-platform-black.vercel.app/
 ![QuizProject](https://github.com/user-attachments/assets/c392337b-19c7-4391-972d-59b5a1d8e2bd)
 
 # Stack:
-[![My Skills](https://skillicons.dev/icons?i=vite,react,ts,sass,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,sass,netlify)](https://skillicons.dev)
+
+# Host:
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
