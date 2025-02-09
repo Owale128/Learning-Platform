@@ -4,7 +4,7 @@ This is a quiz game designed for 3-year-old children (toddlers), where users can
 
 PS: Feel free to ask if you'd like to view the code, and I'll gladly invite you.
 
-Link: [https://carrerfix.netlify.app/](https://learning-platform-black.vercel.app/)
+Link: https://learning-platform-black.vercel.app/
 
 ![QuizProject](https://github.com/user-attachments/assets/c392337b-19c7-4391-972d-59b5a1d8e2bd)
 
